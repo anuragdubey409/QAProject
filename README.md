@@ -10,7 +10,7 @@ Prequisites
 3. cucumber should be installed
 2. seleniumWebdriver 4.0 should be installed and setup.
 ```bash
-npm install -g npm install selenium-webdriver
+npm install -g selenium-webdriver
 ```
 3. chrome Browser should be installed.
 4. Internet Connection should be available.
